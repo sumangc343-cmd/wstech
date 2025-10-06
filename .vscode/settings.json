@@ -1,0 +1,9 @@
+{
+    "chat.renderRelatedFiles": true,
+    "chat.tools.autoApprove": true,
+    "inlineChat.enableV2": true,
+    "inlineChat.finishOnType": true,
+    "inlineChat.hideOnRequest": true,
+    "chat.edits2.enabled": true,
+    "chat.editor.wordWrap": "on"
+}

@@ -1,0 +1,84 @@
+* {
+     font-family: "Inter", sans-serif;
+}
+
+.container {
+     height: 100px;
+}
+
+.whatsappBtn {
+     border: 1px solid green;
+     padding: 10px 18px;
+     color: rgb(0, 128, 0);
+     font-size: 16px;
+}
+
+.whatsappBtn i {
+     color: rgb(0, 128, 0);
+}
+
+.whatsappBtn:hover {
+     border: 1px solid green;
+}
+
+.call {
+     background: linear-gradient(#0ACEFE, #2699FB);
+     color: aliceblue;
+
+}
+
+.bannerContent h1 {
+     font-size: 52px;
+     font-weight: 700;
+}
+
+.bannerContent p {
+     font-size: 22px;
+}
+
+.bannerContent h1 span {
+     color: #2699FB;
+     text-decoration-line: underline;
+     text-decoration-style: wavy;
+     text-decoration-color: blue;
+}
+
+.bannerContent ul {
+     list-style: none;
+}
+
+.bannerContent ul li {
+     font-size: 22px;
+}
+
+.bannerContent ul li i {
+     color: blue;
+}
+
+.bannerContentBtn button {
+     width: 50%;
+     padding: 10px 0px;
+     border-radius: 5px;
+}
+
+.bannerContentBtn button:first-child {
+     color: white;
+     background: linear-gradient(to right, #0ACEFE, #2699FB);
+}
+
+.bannerForm {
+     padding: 40px;
+}
+
+.bannerForm h3 {
+     font-size: 20px;
+     font-weight: 700;
+}
+
+.bannerForm button {
+     width: 100%;
+     padding: 10px 0px;
+     background: linear-gradient(to right, #0ACEFE, #2699FB);
+     border: none;
+     color: white;
+}
